@@ -1,2 +1,2 @@
 # Zelenka
-My autoclicker to participate in contest on the site ZelenkaGuru(LolzTeam)
+My autoclicker to take a part in contests on the site ZelenkaGuru(LolzTeam)

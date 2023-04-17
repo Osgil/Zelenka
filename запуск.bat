@@ -1,0 +1,1 @@
+D:\clicker\My_clicker\Zelenka\myenv\Scripts\python.exe D:\clicker\My_clicker\Zelenka\clicker.py
