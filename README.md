@@ -1,2 +1,4 @@
 # Zelenka
-My autoclicker to take a part in contests on the site ZelenkaGuru(LolzTeam)
+Автокликер для розыгрышей на сайте ZelenkaGuru. В настоящее время не рабочий, в виду изменений, произошедших на сайте.
+
+### Активируется путем запуска файла manage.py
